@@ -9,6 +9,12 @@
   border-radius: 10px;
   box-shadow: 5px 10px 8px 15px rgb(206, 204, 204);
 }
+
+.loading {
+  margin: 50vh auto;
+  text-align: center;
+}
+
 .heading {
   margin-top: 30px;
 }

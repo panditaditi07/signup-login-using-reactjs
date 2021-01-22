@@ -55,13 +55,15 @@ class SignUp extends Component {
     return (
       <div>
         {this.state.submit === true ? (
-          <Loader
-            type="Puff"
-            color="#00BFFF"
-            height={100}
-            width={100}
-            timeout={3000}
-          />
+          <div className={styles["loading"]}>
+            <Loader
+              type="Puff"
+              color="blue"
+              height={100}
+              width={100}
+              timeout={3000}
+            />
+          </div>
         ) : (
           <div>
             <Header page={"Home"} />
