@@ -80,6 +80,6 @@ The header and footer Components are displayed on all the pages.
   This link can also be used to send a get api request.\
   [Link for Backend](https://login-app-auth-mongoose-nodejs.herokuapp.com/)
 
-  The Project is hosted on Vercel
+  The Project is hosted on Vercel \
 
-  [Hosted Link]()
+  [Hosted Link](https://signup-login-using-reactjs.vercel.app/)
